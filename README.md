@@ -173,7 +173,9 @@ My focus is simple: **keep learning, keep building, and turn knowledge into real
 <a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+<a href="mailto:rajnarharia0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 ### Thanks for visiting 👋
 
 </div>
