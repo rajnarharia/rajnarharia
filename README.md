@@ -170,6 +170,10 @@ My focus is simple: **keep learning, keep building, and turn knowledge into real
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajnarharia&label=Profile+Views&style=flat-square)
 
+<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 ### Thanks for visiting 👋
 
 </div>
