@@ -88,3 +88,19 @@ Deep Learning     ████████████░░░░░░░░  
 Generative AI     █████████████████░░░  Building applications
 RAG Systems       ███████████░░░░░░░░░  Currently learning
 AI Agents         ████████████░░░░░░░░  Current focus
+
+📊 GitHub Intelligence
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=transparent&hide_border=true" /> <br> <img src="https://streak-stats.demolab.com?user=rajnarharia&theme=transparent&hide_border=true" /> </div>
+
+<div align="center">
+💡 The Philosophy
+Don't just learn technology. Build something with it.
+
+Explore → Learn → Build → Break → Improve → Deploy 🚀
+
+<br>
+
+<br><br>
+
+Thanks for exploring my digital workspace. 👋
+</div> ```
