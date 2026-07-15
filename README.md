@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-profile-banner.png" width="100%" alt="Raj Narharia GitHub Profile Banner">
+</p>
 <div align="center">
 
 # Hi 👋, I'm Raj Narharia
