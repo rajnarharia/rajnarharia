@@ -3,141 +3,88 @@
 </p>
 <div align="center">
 
-# Hi 👋, I'm Raj Narharia
+## 👋 Hey, I'm Raj Narharia
 
-### AI & Machine Learning Enthusiast | Generative AI Developer | Full-Stack Builder
+### AI & Machine Learning Developer • Generative AI Explorer • Full-Stack Builder
 
-Passionate about building intelligent, practical applications using **Artificial Intelligence, Machine Learning, Generative AI, and modern web technologies**.
+I build **intelligent, practical and deployable applications** by combining  
+**Artificial Intelligence, Machine Learning and modern software development.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Building+Real-World+AI+Applications;Exploring+Generative+AI+%26+AI+Agents;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Real-World+Applications;Exploring+Generative+AI+%26+Agentic+Systems;Turning+Ideas+Into+Working+Products;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing Animation" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 Who I Am
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence**
-- 🤖 Interested in **Machine Learning, Generative AI, LLMs & AI Agents**
-- 🚀 Building practical **AI-powered and full-stack applications**
-- 🧠 Currently exploring **Deep Learning, PyTorch, RAG & Agentic AI**
-- ☁️ Learning how to build and deploy scalable applications using **Cloud & Docker**
-- 💡 I enjoy turning real-world problems into working technology solutions
+🎓 **B.Tech Artificial Intelligence Student** focused on building beyond classroom projects.
 
----
+🤖 Exploring **Machine Learning, Generative AI, LLMs, RAG and Agentic AI**.
 
-## 🚀 Tech Stack
+🛠️ I enjoy building complete products — from **idea and development to deployment**.
 
-### 💻 Languages
+☁️ Currently expanding my skills in **Deep Learning, PyTorch, Cloud and production AI systems**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-`Machine Learning` • `Generative AI` • `LLMs` • `RAG` • `AI Agents`  
-`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `Hugging Face`
-
-### 🛠️ Development & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,git,github,vscode,docker,aws,linux" />
-</p>
-
-`Streamlit` • `Groq` • `Google Gemini` • `n8n`
+> **My mission:** Build intelligent systems that solve meaningful real-world problems.
 
 ---
 
-## 🌟 Featured Projects
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,mysql&perline=8" />
+
+<br>
+
+### AI, Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,flask,nodejs,express,react,docker,aws,linux&perline=10" />
+
+<br><br>
+
+`Machine Learning` • `Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Hugging Face`
+
+`Pandas` • `NumPy` • `Matplotlib` • `Streamlit` • `Groq` • `Gemini` • `n8n`
+
+</div>
+
+---
+
+# 🚀 Featured Builds
 
 ### 🌱 EcoSphere — AI-Powered ESG Management Platform
 
-An enterprise-inspired platform for managing **Environmental, Social, and Governance (ESG)** data with intelligent AI-powered insights.
+> An enterprise-inspired platform combining **sustainability management, analytics and Generative AI** to transform ESG data into actionable insights.
 
-**Key Features**
-- ESG analytics and sustainability tracking
-- AI-powered reports and recommendations
-- Carbon emission monitoring
-- Employee sustainability challenges and gamification
-- Interactive enterprise dashboard
+**`AI Insights`** • **`ESG Analytics`** • **`Carbon Tracking`** • **`Gamification`** • **`Intelligent Reports`**
 
-**Tech Stack:** Python • Flask • Groq AI • JavaScript • SQL
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-success?style=for-the-badge)](https://ecosphere-esg-management-platform-production.up.railway.app)
+[![Repository](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform)
+[![Live](https://img.shields.io/badge/Launch_Live_Demo-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://ecosphere-esg-management-platform-production.up.railway.app)
 
 ---
 
-### 👥 Orbit HRMS — Human Resource Management System
+### 🛰️ Orbit HRMS — Intelligent Human Resource Platform
 
-A modern full-stack HR management platform designed to simplify employee and workforce operations with **AI-powered HR assistance**.
+> A full-stack HR management ecosystem combining traditional workforce operations with an **AI-powered HR assistant**.
 
-**Key Features**
-- Employee and profile management
-- Attendance tracking
-- Leave management and approvals
-- Payroll management
-- Role-based authentication
-- AI-powered HR assistant
+**`React`** • **`Node.js`** • **`Express`** • **`JWT`** • **`Groq AI`**
 
-**Tech Stack:** React • Node.js • Express • JWT • Groq AI
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajnarharia/Orbit-HRMS)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-success?style=for-the-badge)](https://orbit-hrms-frontend.onrender.com)
+[![Repository](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajnarharia/Orbit-HRMS)
+[![Live](https://img.shields.io/badge/Launch_Live_Demo-00C853?style=for-the-badge&logo=rocket&logoColor=white)](https://orbit-hrms-frontend.onrender.com)
 
 ---
 
-### 🍔 Online Food Ordering System
+## 🧠 Currently Building My Next Level
 
-A Python-based application developed to explore application development, order management workflows, and practical programming concepts.
-
-**Tech Stack:** Python
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajnarharia/online-food-ordering-system)
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 Deep Learning
-- 🔥 PyTorch
-- 🤖 AI Agents
-- 🔗 Agentic AI
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧩 Large Language Models
-- ☁️ Cloud Deployment
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-My current goal is to strengthen my knowledge of **Machine Learning and Deep Learning** while building more advanced projects around **Generative AI, AI Agents, RAG systems, and intelligent automation**.
-
-I believe the best way to learn technology is to **build, experiment, deploy, and improve**.
-
----
-
-<div align="center">
-
-### 🚀 Building today. Learning every day.
-
-Thanks for visiting my GitHub profile! 👋
-
-</div>
+```text
+Machine Learning  ███████████████████░  Building foundations
+Deep Learning     ████████████░░░░░░░░  Exploring deeper
+Generative AI     █████████████████░░░  Building applications
+RAG Systems       ███████████░░░░░░░░░  Currently learning
+AI Agents         ████████████░░░░░░░░  Current focus
