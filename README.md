@@ -3,54 +3,69 @@
 </p>
 <div align="center">
 
-# Hey, I'm Raj Narharia 👋
+# Hey 👋, I'm Raj Narharia
 
-### AI / ML Developer · Generative AI Explorer · Builder
+### AI Student · Machine Learning Enthusiast · Generative AI Builder
 
-**I turn ideas into intelligent, working products.**
+I enjoy turning ideas into **working applications** and learning AI by actually building with it.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=700&lines=AI+%2B+Code+%2B+Curiosity;Building+Real-World+AI+Products;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Currently%3A+Learning.+Building.+Shipping." alt="Typing SVG" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rajnarharia&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+AI+Projects;Exploring+Generative+AI+%26+AI+Agents;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `01` · About
+## 👨‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence student** interested in building technology that goes beyond notebooks and prototypes.
-
-My current playground includes **Machine Learning, Generative AI, LLMs, RAG, AI Agents and full-stack development** — with a focus on turning concepts into applications people can actually use.
-
-> **Current direction:** From building ML models → to building complete intelligent systems.
-
----
-
-## `02` · Tech Stack
-
-<div align="center">
-
-### Core
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark" />
-
-### AI · Development · Infrastructure
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,react,nodejs,express,flask,docker,aws,linux,git,github&theme=dark&perline=12" />
-
-<br>
-
-`Machine Learning` · `Generative AI` · `LLMs` · `RAG` · `AI Agents`  
-`Pandas` · `NumPy` · `Hugging Face` · `Groq` · `Gemini` · `Streamlit` · `n8n`
-
-</div>
+- 🎓 B.Tech student specializing in **Artificial Intelligence**
+- 🤖 Interested in **Machine Learning and Generative AI**
+- 🛠️ Building practical **AI-powered and full-stack projects**
+- 🚀 I enjoy taking projects from **development to deployment**
+- 💡 Currently improving my understanding of advanced AI technologies
 
 ---
 
-## `03` · Featured Builds
+## 🧰 Technologies I Work With
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql" />
+</p>
+
+### Development & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,git,github,docker,aws,linux,vscode" />
+</p>
+
+### AI, ML & Data
+
+`Machine Learning` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib`
+
+`Generative AI` · `LLMs` · `Hugging Face` · `Groq` · `Google Gemini`
+
+### Other Tools
+
+`Streamlit` · `n8n` · `MySQL`
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Learning-blueviolet?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Exploring-blue?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Exploring-success?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Exploring-orange?style=flat-square)
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -58,24 +73,27 @@ My current playground includes **Machine Learning, Generative AI, LLMs, RAG, AI 
 
 ### 🌱 EcoSphere
 
-**AI-Powered ESG Management Platform**
+**Enterprise-Inspired ESG Management Platform**
 
-Enterprise-inspired sustainability platform that combines ESG management with AI-driven insights.
+A full-stack ESG platform for managing sustainability data with AI-powered insights and reporting.
 
-`Python` `Flask` `Groq AI` `SQL`
+**Key Features**
 
-**What makes it interesting**
+- ESG metrics and analytics
+- AI-powered sustainability insights
+- Emissions tracking
+- Employee gamification
+- Intelligent reporting
 
-↳ AI-powered sustainability insights  
-↳ ESG & emissions analytics  
-↳ Intelligent reporting  
-↳ Employee gamification  
+**Built With**
+
+`Python` `Flask` `Groq` `JavaScript` `SQL`
 
 <br>
 
-[![Explore](https://img.shields.io/badge/Explore_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform)
 
-[![Launch](https://img.shields.io/badge/Launch_Project-059669?style=for-the-badge&logo=rocket&logoColor=white)](https://ecosphere-esg-management-platform-production.up.railway.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://ecosphere-esg-management-platform-production.up.railway.app)
 
 </td>
 
@@ -83,24 +101,28 @@ Enterprise-inspired sustainability platform that combines ESG management with AI
 
 ### 🛰️ Orbit HRMS
 
-**AI-Enhanced Human Resource Platform**
+**Human Resource Management System**
 
-Full-stack workforce management system with integrated AI-powered HR assistance.
+A full-stack HRMS application for managing employees and everyday HR operations.
+
+**Key Features**
+
+- Employee management
+- Attendance tracking
+- Leave management
+- Payroll management
+- Role-based authentication
+- AI-powered HR assistant
+
+**Built With**
 
 `React` `Node.js` `Express` `JWT` `Groq`
 
-**What makes it interesting**
-
-↳ Role-based HR workflows  
-↳ Attendance & leave management  
-↳ Payroll operations  
-↳ AI-powered HR assistant  
-
 <br>
 
-[![Explore](https://img.shields.io/badge/Explore_Repository-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajnarharia/Orbit-HRMS)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajnarharia/Orbit-HRMS)
 
-[![Launch](https://img.shields.io/badge/Launch_Project-059669?style=for-the-badge&logo=rocket&logoColor=white)](https://orbit-hrms-frontend.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://orbit-hrms-frontend.onrender.com)
 
 </td>
 </tr>
@@ -108,52 +130,46 @@ Full-stack workforce management system with integrated AI-powered HR assistance.
 
 ---
 
-## `04` · What I'm Exploring
+## 🍔 Other Project
 
-<div align="center">
+### Online Food Ordering System
 
-| 🧠 Learning | 🤖 Building Toward | 🔬 Exploring |
-|:---:|:---:|:---:|
-| Deep Learning | Intelligent AI Products | Agentic AI |
-| PyTorch | Autonomous Workflows | RAG Systems |
-| Neural Networks | Production AI Apps | LLM Applications |
+A Python project built to practice application development and programming concepts.
 
-</div>
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/rajnarharia/online-food-ordering-system)
 
 ---
 
-## `05` · GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&hide_border=true&theme=transparent" />
 
 <br>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=rajnarharia&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=rajnarharia&hide_border=true&theme=transparent" />
 
 </div>
 
----
+> Contribution counts are intentionally not hard-coded here. GitHub's contribution graph on my profile shows my current activity automatically.
 
-## `06` · The Road Ahead
+---
 
 <div align="center">
 
-### ML Models → Generative AI → AI Agents → Autonomous Systems
+## 🎯 What I'm Working Toward
 
-I'm currently building the skills to create AI systems that can  
-**understand · reason · retrieve · automate · act**
+**Machine Learning → Deep Learning → Generative AI → Intelligent AI Systems**
 
-<br>
-
-**`LEARN` → `BUILD` → `SHIP` → `IMPROVE`**
+My focus is simple: **keep learning, keep building, and turn knowledge into real projects.**
 
 <br>
 
-### ⚡ Building intelligence, one project at a time.
+![Profile Views](https://komarev.com/ghpvc/?username=rajnarharia&label=Profile+Views&style=flat-square)
 
-<sub>If something here interests you, explore the projects and follow the journey.</sub>
+### Thanks for visiting 👋
 
 </div>
