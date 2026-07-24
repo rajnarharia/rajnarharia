@@ -1,65 +1,81 @@
+```md
 <p align="center">
   <img src="./github-profile-banner.png" width="100%" alt="Raj Narharia GitHub Profile Banner">
 </p>
+
 <div align="center">
 
-# Hey 👋, I'm Raj Narharia
+# 👋 Hey, I'm Raj Narharia
 
-### AI Student · Machine Learning Enthusiast · Generative AI Builder
+### 🚀 AI Student | Machine Learning Enthusiast | Generative AI Builder
 
-I enjoy turning ideas into **working applications** and learning AI by actually building with it.
+I love building intelligent applications that solve real-world problems using **Artificial Intelligence, Machine Learning, and Generative AI.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+AI+Projects;Exploring+Generative+AI+%26+AI+Agents;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Generative+AI+Developer;Building+Real-World+AI+Projects;Python+%7C+ML+%7C+LLMs+%7C+Streamlit;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Repeat" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=rajnarharia&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<img src="https://img.shields.io/github/followers/rajnarharia?label=Followers&style=flat-square" />
+<img src="https://img.shields.io/github/stars/rajnarharia?affiliations=OWNER&style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence**
-- 🤖 Interested in **Machine Learning and Generative AI**
-- 🛠️ Building practical **AI-powered and full-stack projects**
-- 🚀 I enjoy taking projects from **development to deployment**
-- 💡 Currently improving my understanding of advanced AI technologies
+🎓 B.Tech Student specializing in **Artificial Intelligence**
+
+🤖 Passionate about **Machine Learning, NLP, Computer Vision & Generative AI**
+
+🚀 Building AI-powered applications using **Python, Streamlit, LLMs, Flask, React & Node.js**
+
+💡 I enjoy transforming ideas into real-world applications and deploying them.
+
+🌱 Currently exploring
+
+- Deep Learning
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Multi-Agent Systems
+- LLM Engineering
 
 ---
 
-## 🧰 Technologies I Work With
+# 🛠 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql" />
 </p>
 
-### Development & Tools
+### ⚙️ Frameworks & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,git,github,docker,aws,linux,vscode" />
 </p>
 
-### AI, ML & Data
-
-`Machine Learning` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib`
-
-`Generative AI` · `LLMs` · `Hugging Face` · `Groq` · `Google Gemini`
-
-### Other Tools
-
-`Streamlit` · `n8n` · `MySQL`
-
----
-
-## 🌱 Currently Learning
+### 🤖 AI / ML
 
 <p>
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Learning-blueviolet?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Exploring-blue?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Exploring-success?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Exploring-orange?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat-square)
+
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square)
+
+![NumPy](https://img.shields.io/badge/NumPy-lightgrey?style=flat-square)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-success?style=flat-square)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat-square)
+
+![LLMs](https://img.shields.io/badge/LLMs-purple?style=flat-square)
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat-square)
+
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
 
 </p>
 
@@ -67,117 +83,204 @@ I enjoy turning ideas into **working applications** and learning AI by actually 
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📰 NewsMind AI
 
-### 🌱 EcoSphere
+> Intelligent News Article Clustering using Machine Learning.
 
-**Enterprise-Inspired ESG Management Platform**
+**Tech Stack**
 
-A full-stack ESG platform for managing sustainability data with AI-powered insights and reporting.
+`Python` `Streamlit` `Scikit-Learn` `K-Means` `NLP`
 
-**Key Features**
+🔗 Repository
 
-- ESG metrics and analytics
-- AI-powered sustainability insights
-- Emissions tracking
-- Employee gamification
-- Intelligent reporting
-
-**Built With**
-
-`Python` `Flask` `Groq` `JavaScript` `SQL`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://ecosphere-esg-management-platform-production.up.railway.app)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛰️ Orbit HRMS
-
-**Human Resource Management System**
-
-A full-stack HRMS application for managing employees and everyday HR operations.
-
-**Key Features**
-
-- Employee management
-- Attendance tracking
-- Leave management
-- Payroll management
-- Role-based authentication
-- AI-powered HR assistant
-
-**Built With**
-
-`React` `Node.js` `Express` `JWT` `Groq`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rajnarharia/Orbit-HRMS)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://orbit-hrms-frontend.onrender.com)
-
-</td>
-</tr>
-</table>
+https://github.com/rajnarharia/NewsMind-AI
 
 ---
 
-## 🍔 Other Project
+## 🎵 Music Genre Clustering AI
 
-### Online Food Ordering System
+> Discover similar music using Unsupervised Machine Learning.
 
-A Python project built to practice application development and programming concepts.
+**Tech Stack**
 
-[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/rajnarharia/online-food-ordering-system)
+`Python`
+
+`K-Means`
+
+`PCA`
+
+`Plotly`
+
+`Streamlit`
+
+🔗 Repository
+
+https://github.com/rajnarharia/Music-Genre-Clustering-AI
 
 ---
 
-## 📊 GitHub Activity
+## 🖼 PixelShrink AI
+
+> Image Color Compression using MiniBatch K-Means.
+
+**Tech Stack**
+
+`Python`
+
+`Computer Vision`
+
+`NumPy`
+
+`Streamlit`
+
+`MiniBatch K-Means`
+
+🔗 Repository
+
+https://github.com/rajnarharia/PixelShrink-AI
+
+---
+
+## 🌱 EcoSphere ESG Management Platform
+
+Enterprise-inspired ESG Management Platform with AI-powered sustainability insights.
+
+**Tech Stack**
+
+`Flask`
+
+`Groq`
+
+`SQL`
+
+`JavaScript`
+
+🔗 Repository
+
+https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform
+
+🌐 Live Demo
+
+https://ecosphere-esg-management-platform-production.up.railway.app
+
+---
+
+## 👨‍💼 Orbit HRMS
+
+Human Resource Management System with AI-powered HR Assistant.
+
+**Tech Stack**
+
+`React`
+
+`Node.js`
+
+`Express`
+
+`JWT`
+
+`Groq`
+
+🔗 Repository
+
+https://github.com/rajnarharia/Orbit-HRMS
+
+🌐 Live Demo
+
+https://orbit-hrms-frontend.onrender.com
+
+---
+
+## 🍔 Online Food Ordering System
+
+Python-based food ordering application built for learning application development.
+
+🔗 Repository
+
+https://github.com/rajnarharia/online-food-ordering-system
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=transparent&hide_border=true"/>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=rajnarharia&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=rajnarharia&theme=transparent&hide_border=true"/>
 
 </div>
 
-> Contribution counts are intentionally not hard-coded here. GitHub's contribution graph on my profile shows my current activity automatically.
-
 ---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-## 🎯 What I'm Working Toward
+<img src="https://github-profile-trophy.vercel.app/?username=rajnarharia&theme=flat&no-frame=true&margin-w=8"/>
 
-**Machine Learning → Deep Learning → Generative AI → Intelligent AI Systems**
+</div>
 
-My focus is simple: **keep learning, keep building, and turn knowledge into real projects.**
+---
 
-<br>
+# 📊 Contribution Graph
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajnarharia&label=Profile+Views&style=flat-square)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Deep Learning
+- PyTorch
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MLOps
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 15+ AI Projects
+- 🚀 Master Deep Learning
+- 🤖 Build AI Agents
+- 📚 Contribute to Open Source
+- 💼 Secure an AI/ML Internship
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rajnarharia0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-### Thanks for visiting 👋
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote I Believe In
+
+> **"The best way to learn AI is to build AI."**
+
+⭐ If you like my projects, consider giving them a star!
+
+Thanks for visiting my profile! 🚀
 
 </div>
+```
