@@ -1,172 +1,138 @@
 <div align="center">
 
-# 👋 Hi, I'm Raj Narharia
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:1E3A8A,100:38BDF8&text=Raj%20Narharia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Generative%20AI&descAlignY=58"/>
 
-### AI Engineer • Machine Learning • Generative AI
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Machine+Learning+%7C+Generative+AI;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Machine+Learning+%7C+Generative+AI;Open+Source+Contributor;Always+Learning+Something+New"/>
 
-<p>
+<br><br>
 
 <a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/raj-narharia-rn-a04ba8329">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=rajnarharia&style=flat-square&color=blue"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About
 
-```python
-class RajNarharia:
+I'm **Raj Narharia**, an **Artificial Intelligence Engineering** student passionate about building intelligent software using **Machine Learning, Generative AI, NLP, Computer Vision, and LLMs**.
 
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.education = "B.Tech Artificial Intelligence"
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "LLMs",
-            "Computer Vision",
-            "AI Automation"
-        ]
+I enjoy transforming real-world ideas into scalable AI applications with clean UI, practical impact, and modern technologies.
 
-    def currently_building(self):
-        return [
-            "AI Applications",
-            "ML Projects",
-            "LLM Solutions",
-            "Open Source"
-        ]
+---
+
+# 🚀 What I'm Building
+
+```text
+🧠 AI Applications
+🤖 Generative AI Projects
+📊 Machine Learning Models
+💬 LLM Powered Systems
+☁️ Cloud Based AI Solutions
+🌍 Open Source Projects
 ```
 
 ---
 
 # ⚡ Tech Stack
 
-### Languages
-
-<p>
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql"/>
 
-</p>
+<br><br>
 
-### AI / ML
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws"/>
 
-<p>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</div>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-### Generative AI
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google">
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square"/>
 
 </p>
 
 ---
-
-# 🎯 Current Focus
-
-- 🤖 Generative AI
-- 🧠 Large Language Models
-- 🔥 Agentic AI
-- 📚 Retrieval-Augmented Generation
-- ☁️ MLOps
-- 🚀 Building Production AI Apps
-
----
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
 
-<td width="50%">
-
-### 🎵 Music Genre Clustering AI
-
-AI-powered music discovery using **K-Means Clustering**.
-
-**Highlights**
-
-- 🎧 Genre Discovery
-- 📊 PCA Visualization
-- 🤖 Machine Learning
-- 📈 Interactive Dashboard
-
-**Tech**
-
-`Python`
-`Scikit-Learn`
-`Streamlit`
-`Plotly`
-
-<a href="https://github.com/rajnarharia/Music-Genre-Clustering-AI">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📰 NewsMind AI
 
-Cluster thousands of news articles automatically using NLP.
+AI-powered news clustering platform that automatically groups articles into meaningful topics using NLP and Machine Learning.
 
 **Highlights**
 
-- 📰 Topic Detection
-- 🤖 Text Clustering
-- 📊 Interactive Dashboard
-- 🔍 Similar News Search
+- 🔹 Topic Clustering
+- 🔹 Text Similarity
+- 🔹 Interactive Dashboard
+- 🔹 Real-time Predictions
 
 **Tech**
 
-`Python`
-`NLP`
-`K-Means`
-`Streamlit`
+`Python` `Scikit-Learn` `Streamlit` `NLP`
 
+<p>
 <a href="https://github.com/rajnarharia/NewsMind-AI">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 Music Genre Clustering AI
+
+Discover similar music using unsupervised machine learning and interactive visualizations.
+
+**Highlights**
+
+- 🔹 Genre Discovery
+- 🔹 K-Means Clustering
+- 🔹 PCA Visualization
+- 🔹 Music Analytics
+
+**Tech**
+
+`Python` `Scikit-Learn` `Plotly` `Streamlit`
+
+<p>
+<a href="https://github.com/rajnarharia/Music-Genre-Clustering-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
 
@@ -174,45 +140,61 @@ Cluster thousands of news articles automatically using NLP.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 PixelShrink AI
 
-Compress image colors while preserving quality using AI.
+Compress image colors using K-Means while preserving visual quality.
 
 **Highlights**
 
-- 🖼️ Color Compression
-- ⚡ Fast Processing
-- 🎯 K-Means
-- 📈 Before / After Comparison
+- 🔹 Image Compression
+- 🔹 Color Quantization
+- 🔹 Before / After Comparison
+- 🔹 Fast Processing
 
 **Tech**
 
-`Python`
-`OpenCV`
-`Scikit-Learn`
+`Python` `OpenCV` `NumPy`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 CustomDroid
 
-Android AI Assistant capable of executing device commands.
+Android AI Assistant capable of executing intelligent device commands.
 
 **Highlights**
 
-- 💬 AI Chat
-- 📱 Android Automation
-- ⚙️ Smart Commands
-- 🤖 Gemini Integration
+- 🔹 AI Chat Interface
+- 🔹 Smart Device Control
+- 🔹 Gemini Integration
+- 🔹 Android Automation
 
 **Tech**
 
-`Android`
-`Jetpack Compose`
-`Gemini`
+`Android` `Jetpack Compose` `Gemini API`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌍 EcoSphere ESG Platform
+
+AI-enabled ESG management platform for sustainability tracking and reporting.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍔 Online Food Ordering System
+
+Responsive full-stack food ordering application with admin dashboard.
 
 </td>
 
@@ -222,65 +204,51 @@ Android AI Assistant capable of executing device commands.
 
 ---
 
-# 🏆 Experience
+# 🎯 Current Focus
 
-### 💼 Generative AI & Machine Learning Intern
-
-**REGex Software Services**
-
-- Built AI-powered applications
-- Worked with LLMs
-- Developed ML solutions
-- Linux Administration
-- Team Collaboration
+- 🧠 Large Language Models (LLMs)
+- 🤖 Generative AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ AI Agents
+- ☁️ MLOps
+- 🚀 Production AI Applications
 
 ---
 
-# 🌱 Currently Learning
-
-- Agentic AI
-- LangChain
-- MCP
-- Vector Databases
-- RAG
-- AI Agents
-- MLOps
-- LLM Engineering
-
----
-
-# 🎯 2026 Goals
+# 📌 2026 Goals
 
 - ✅ Build 15+ AI Projects
 - ✅ Contribute to Open Source
-- ✅ Master LLM Development
-- ✅ Crack AI/ML Internship
-- ✅ Build SaaS using AI
+- ✅ Master LLM Engineering
+- ✅ Land an AI/ML Role
+- ✅ Build AI SaaS Products
 
 ---
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=rajnarharia&theme=transparent&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=rajnarharia&theme=transparent&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=transparent&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -294,33 +262,24 @@ Android AI Assistant capable of executing device commands.
 
 </div>
 
-> **Note:** Snake animation tabhi dikhegi jab GitHub Actions se generate karoge.
+> **Note:** Configure GitHub Actions to generate the snake animation.
 
 ---
 
-# 🧠 Fun Facts
-
-- 🤖 I love building AI that solves real-world problems.
-- 🚀 Learning something new every day.
-- 💡 Turning ideas into intelligent software.
-- 🌍 Exploring the future of Generative AI.
-
----
-
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/raj-narharia-rn-a04ba8329">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -329,12 +288,14 @@ Android AI Assistant capable of executing device commands.
 
 <div align="center">
 
-## 💭 Quote
-
-*"The best way to predict the future is to build it."*
+### 💡 *"Building AI that solves real-world problems."*
 
 <br>
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ If you like my work, consider starring my repositories.
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rajnarharia&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
