@@ -1,47 +1,45 @@
-<div align="center">
-
-# RAJ NARHARIA
-
-### Artificial Intelligence Engineer
-
-<p>
-Building intelligent software through Machine Learning, Generative AI and modern software engineering.
+<p align="center">
+  <img src="github-profile-banner.png" width="100%" alt="Raj Narharia Banner"/>
 </p>
 
-<br>
+<h1 align="center">Raj Narharia</h1>
 
-<a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+Artificial Intelligence Engineer • Machine Learning • Generative AI
+</p>
 
-<a href="https://linkedin.com/in/raj-narharia-rn-a04ba8329">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+Building intelligent software that solves real-world problems through AI, Machine Learning and modern software engineering.
+</p>
 
-<a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+<a href="https://github.com/rajnarharia">GitHub</a> •
+<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">LinkedIn</a> •
+<a href="mailto:rajnarharia0@gmail.com">Email</a>
+</p>
 
 ---
 
-# About
+# About Me
 
-Artificial Intelligence student passionate about building AI products that solve real-world problems.
+I am an Artificial Intelligence Engineering student passionate about designing intelligent systems that create practical impact.
 
-My interests include:
+Rather than building only academic projects, I enjoy developing complete AI applications—from data preprocessing and model training to deployment and user experience.
 
+### Interests
+
+- Artificial Intelligence
 - Machine Learning
 - Generative AI
-- Large Language Models
 - Computer Vision
-- NLP
+- Natural Language Processing
 - AI Automation
+- LLM Applications
+- Agentic AI
 
 ---
 
-# Tech
+# Tech Stack
 
 <div align="center">
 
@@ -53,138 +51,121 @@ My interests include:
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws"/>
 
 </div>
 
 ---
 
-# Selected Work
+# Featured Projects
 
-### 📰 NewsMind AI
+## 📰 NewsMind AI
 
-Intelligent news clustering platform powered by NLP and Machine Learning.
+An intelligent news clustering platform that groups related news articles using Natural Language Processing and Unsupervised Machine Learning.
 
----
+**Tech Stack**
 
-### 🎵 Music Genre Clustering AI
-
-Discover music patterns using unsupervised learning.
+Python • NLP • Scikit-Learn • Streamlit
 
 ---
 
-### 🎨 PixelShrink AI
+## 🎵 Music Genre Clustering AI
 
-AI-based image color compression using K-Means.
+Discover hidden music patterns through unsupervised learning and interactive visual analytics.
 
----
+**Tech Stack**
 
-### 🤖 CustomDroid
-
-Android assistant capable of executing intelligent commands.
+Python • PCA • K-Means • Plotly • Streamlit
 
 ---
 
-### 🌍 EcoSphere ESG Platform
+## 🎨 PixelShrink AI
 
-AI-powered ESG management platform.
+Compress thousands of image colors into optimized palettes while preserving image quality using K-Means clustering.
+
+**Tech Stack**
+
+Python • OpenCV • NumPy • Machine Learning
+
+---
+## 🤖 CustomDroid
+
+An AI-powered Android assistant capable of understanding natural language commands and executing intelligent actions directly on Android devices.
+
+**Tech Stack**
+
+Kotlin • Jetpack Compose • Android • Generative AI
 
 ---
 
-# GitHub
+## 🌍 EcoSphere ESG Platform
+
+An AI-powered ESG management platform that helps organizations monitor sustainability metrics and generate intelligent business insights.
+
+**Tech Stack**
+
+Python • FastAPI • PostgreSQL • Generative AI
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=rajnarharia&theme=transparent&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=rajnarharia&theme=transparent&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
-# Open Source Journey
 
-```text
-2025 ───────────────────────────────────────────────▶ 2026
+# Currently Exploring
 
-Started with Python
-        │
-        ├── Machine Learning
-        │
-        ├── Computer Vision
-        │
-        ├── NLP
-        │
-        ├── Generative AI
-        │
-        ├── LLM Applications
-        │
-        └── Building Production AI Projects
-```
+- 🤖 Agentic AI
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ AI Automation
+- ☁️ MLOps
+- 🚀 Production AI Systems
 
 ---
 
-# Current Focus
+# Let's Connect
 
-<div align="center">
-
-| Learning | Building | Exploring |
-|----------|----------|-----------|
-| Agentic AI | AI Applications | MCP |
-| RAG | LLM Tools | Vector Databases |
-| MLOps | Automation | AI Workflows |
-
-</div>
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# Connect
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/rajnarharia">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/raj-narharia-rn-a04ba8329">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:rajnarharia0@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### Building AI with Purpose.
+### "Building AI that creates real-world impact."
 
 <img src="https://komarev.com/ghpvc/?username=rajnarharia&style=flat-square"/>
 
