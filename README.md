@@ -1,120 +1,315 @@
-# Hi, I'm Raj Narharia 👋
+<div align="center">
 
-**AI/ML Engineer • Generative AI Enthusiast • Building Intelligent Software**
+# 👋 Hi, I'm Raj Narharia
 
-I enjoy building AI-powered applications that solve practical problems using Machine Learning, LLMs, Computer Vision, and Full-Stack Development.
+### AI Engineer • Machine Learning • Generative AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Machine+Learning+%7C+Generative+AI;Always+Learning+Something+New" />
+
+<p>
+
+<a href="https://github.com/rajnarharia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/raj-narharia-rn-a04ba8329">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:rajnarharia0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=rajnarharia&style=flat-square&color=blue"/>
+
+</div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-- 🎓 B.Tech in Artificial Intelligence
-- 🤖 Focused on AI, Machine Learning & Generative AI
-- 💻 Building production-ready AI applications
-- 🌱 Currently exploring Agentic AI, RAG & MLOps
-- 🚀 Open to AI/ML Internship & Full-Time Opportunities
+```python
+class RajNarharia:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.education = "B.Tech Artificial Intelligence"
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "LLMs",
+            "Computer Vision",
+            "AI Automation"
+        ]
+
+    def currently_building(self):
+        return [
+            "AI Applications",
+            "ML Projects",
+            "LLM Solutions",
+            "Open Source"
+        ]
+```
 
 ---
 
-## Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
 
-### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql"/>
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv">
+
+</p>
 
 ### Generative AI
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+<p>
 
-### Web & Frameworks
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai">
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google">
 
-### Cloud & Tools
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws"/>
+
+</p>
 
 ---
 
-# Featured Projects
+# 🎯 Current Focus
 
-| Project | Description |
-|----------|-------------|
-| 🎵 **Music Genre Clustering AI** | Discover similar music using unsupervised machine learning. |
-| 📰 **NewsMind AI** | Automatically groups news articles into meaningful topics using NLP. |
-| 🎨 **PixelShrink AI** | Image color compression using K-Means clustering. |
-| 🤖 **CustomDroid** | AI-powered Android assistant capable of executing device commands. |
-| 🌍 **EcoSphere ESG Platform** | AI-enabled sustainability and ESG management platform. |
-| 🍔 **Online Food Ordering System** | Full-stack food ordering platform with interactive dashboard. |
+- 🤖 Generative AI
+- 🧠 Large Language Models
+- 🔥 Agentic AI
+- 📚 Retrieval-Augmented Generation
+- ☁️ MLOps
+- 🚀 Building Production AI Apps
+
+---
+# 💼 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎵 Music Genre Clustering AI
+
+AI-powered music discovery using **K-Means Clustering**.
+
+**Highlights**
+
+- 🎧 Genre Discovery
+- 📊 PCA Visualization
+- 🤖 Machine Learning
+- 📈 Interactive Dashboard
+
+**Tech**
+
+`Python`
+`Scikit-Learn`
+`Streamlit`
+`Plotly`
+
+<a href="https://github.com/rajnarharia/Music-Genre-Clustering-AI">
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📰 NewsMind AI
+
+Cluster thousands of news articles automatically using NLP.
+
+**Highlights**
+
+- 📰 Topic Detection
+- 🤖 Text Clustering
+- 📊 Interactive Dashboard
+- 🔍 Similar News Search
+
+**Tech**
+
+`Python`
+`NLP`
+`K-Means`
+`Streamlit`
+
+<a href="https://github.com/rajnarharia/NewsMind-AI">
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 PixelShrink AI
+
+Compress image colors while preserving quality using AI.
+
+**Highlights**
+
+- 🖼️ Color Compression
+- ⚡ Fast Processing
+- 🎯 K-Means
+- 📈 Before / After Comparison
+
+**Tech**
+
+`Python`
+`OpenCV`
+`Scikit-Learn`
+
+</td>
+
+<td width="50%">
+
+### 🤖 CustomDroid
+
+Android AI Assistant capable of executing device commands.
+
+**Highlights**
+
+- 💬 AI Chat
+- 📱 Android Automation
+- ⚙️ Smart Commands
+- 🤖 Gemini Integration
+
+**Tech**
+
+`Android`
+`Jetpack Compose`
+`Gemini`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## Currently Learning
+# 🏆 Experience
+
+### 💼 Generative AI & Machine Learning Intern
+
+**REGex Software Services**
+
+- Built AI-powered applications
+- Worked with LLMs
+- Developed ML solutions
+- Linux Administration
+- Team Collaboration
+
+---
+
+# 🌱 Currently Learning
 
 - Agentic AI
 - LangChain
-- RAG Systems
-- Vector Databases
 - MCP
+- Vector Databases
+- RAG
+- AI Agents
 - MLOps
 - LLM Engineering
 
 ---
 
-## GitHub Stats
+# 🎯 2026 Goals
 
-<p align="center">
+- ✅ Build 15+ AI Projects
+- ✅ Contribute to Open Source
+- ✅ Master LLM Development
+- ✅ Crack AI/ML Internship
+- ✅ Build SaaS using AI
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&hide_border=true"/>
+---
+# 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnarharia&hide_border=true"/>
+<div align="center">
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true"/>
 
-<p align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=rajnarharia&theme=transparent&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&hide_border=true"/>
+</div>
 
-</p>
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
-## Activity Graph
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=github-compact&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## Connect With Me
+# 🐍 Contribution Snake
 
-<p align="left">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajnarharia/rajnarharia/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** Snake animation tabhi dikhegi jab GitHub Actions se generate karoge.
+
+---
+
+# 🧠 Fun Facts
+
+- 🤖 I love building AI that solves real-world problems.
+- 🚀 Learning something new every day.
+- 💡 Turning ideas into intelligent software.
+- 🌍 Exploring the future of Generative AI.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/rajnarharia">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -125,15 +320,21 @@ I enjoy building AI-powered applications that solve practical problems using Mac
 </a>
 
 <a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-> *Building AI that creates real-world impact.*
+## 💭 Quote
 
-</p>
+*"The best way to predict the future is to build it."*
+
+<br>
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+</div>
