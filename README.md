@@ -1,223 +1,115 @@
-<<<<<<< HEAD
-## Hi there 👋
-
-<!--
-**rajnarharia/rajnarharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
-# Raj Narharia
-
-Artificial Intelligence Engineer • Machine Learning • Generative AI
-
-![Banner](github-profile-banner.png)
-
-## About
-
-I build practical AI applications using Machine Learning, NLP, Computer Vision and Generative AI.
-
-## Tech Stack
-
-Python • Java • C/C++ • TensorFlow • PyTorch • Scikit-Learn • OpenCV • Streamlit • FastAPI • Docker • AWS • Git
-
-## Featured Projects
-
-- NewsMind AI
-- Music Genre Clustering AI
-- PixelShrink AI
-- CustomDroid
-- EcoSphere ESG Platform
-
-## GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=rajnarharia&theme=transparent&hide_border=true"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=transparent&hide_border=true"/>
-
-## Connect
-
-- GitHub: https://github.com/rajnarharia
-- LinkedIn: https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/
-- Email: rajnarharia0@gmail.com
->>>>>>> e72fdab (Rename README to README.md)
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Raj Narharia"/>
+# 👋 Hi, I'm Raj Narharia
+
+### Artificial Intelligence Engineer • Machine Learning • Generative AI
+
+Building intelligent software powered by Artificial Intelligence, Machine Learning and Generative AI.
 
 <br>
 
-# Raj Narharia
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raj-narharia.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnarharia0@gmail.com)
 
-### Artificial Intelligence Developer • Machine Learning • Generative AI
-
-<p>
-Building intelligent software through Artificial Intelligence, Machine Learning,
-Generative AI and modern Full-Stack Development.
-</p>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=23&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Building+Real-World+AI+Projects;Machine+Learning+%7C+Generative+AI;Learning+by+Building;Learn+→+Build+→+Deploy+→+Improve"/>
-
-<br><br>
-
-<a href="https://raj-narharia.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![](https://komarev.com/ghpvc/?username=rajnarharia&style=for-the-badge)
 
 </div>
 
 ---
 
-# About Me
+# 🚀 About Me
 
-I'm an **Artificial Intelligence undergraduate** passionate about building practical software powered by Machine Learning and Generative AI.
-
-Instead of only learning algorithms, I enjoy transforming ideas into real applications—from model development to deployment. My work combines AI, backend engineering and modern development practices to create solutions that are useful, scalable and continuously improving.
-
----
-
-## What I'm Focused On
-
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- ⚡ AI Agents
-- 🌐 Full Stack Development
-- ☁️ Cloud Deployment
-- 📈 Building Production-Ready Projects
+- 🎓 B.Tech in Artificial Intelligence
+- 💻 AI & Machine Learning Developer
+- 🤖 Passionate about Generative AI
+- 🌱 Currently learning Deep Learning, PyTorch and AI Agents
+- 🚀 Building real-world AI applications
+- ☁️ Interested in Cloud & Deployment
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,react,nodejs,express,flask,docker,git,github,linux,aws,vscode,androidstudio&perline=10"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<br><br>
+### Web
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+### AI / ML
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n"/>
-
-</div>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 
 ---
+# 💼 Experience
 
-# Currently Exploring
-
-- Deep Learning
-- PyTorch
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- AI Agents
-- Production AI Systems
-
----
-# Experience
-
-### Generative AI & Machine Learning Intern
+## 🚀 Generative AI & Machine Learning Intern
 **REGex Software Services**
 
-- Built AI-powered applications using modern ML workflows.
-- Worked with Generative AI tools and LLM integrations.
-- Developed production-ready Python projects.
-- Collaborated with mentors on real-world AI solutions.
-- Improved deployment and debugging workflows.
+- Developed AI-powered applications using Machine Learning and Generative AI.
+- Built intelligent automation workflows using modern AI tools.
+- Worked on Python-based real-world AI projects.
+- Gained experience in deployment, debugging and optimization.
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
-<table>
-<tr>
+## 🌍 EcoSphere – ESG Management Platform
 
-<td width="50%">
-
-### 🌍 EcoSphere ESG Management Platform
-
-Enterprise ESG Management platform designed for organizations to monitor sustainability metrics, compliance and reporting.
+Enterprise platform for sustainability and ESG reporting.
 
 **Highlights**
-
 - ESG Dashboard
-- Authentication
+- Authentication System
 - Analytics
-- Database Integration
-- AI Assisted Insights
+- AI Insights
+- Database Management
 
-**Tech**
+**Tech Stack**
 
-Python • Flask • SQLAlchemy • HTML • CSS • JavaScript
+`Python` `Flask` `SQLAlchemy` `HTML` `CSS` `JavaScript`
 
-</td>
+🔗 **Repository:** https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform
 
-<td width="50%">
+---
 
-### 👨‍💼 Orbit HRMS
+## 👨‍💼 Orbit HRMS
 
-Modern Human Resource Management System with employee management, attendance, authentication and analytics.
+Modern Human Resource Management System.
 
 **Highlights**
 
-- Employee Dashboard
-- Attendance
+- Employee Management
+- Attendance Tracking
 - Authentication
+- Dashboard
 - HR Analytics
-- Responsive UI
 
-**Tech**
+**Tech Stack**
 
-React • Node.js • Express • MongoDB
+`React` `Node.js` `Express` `MongoDB`
 
-</td>
+🔗 **Repository:** https://github.com/rajnarharia/Orbit-HRMS
 
-</tr>
+---
 
-<tr>
+## 📰 NewsMind AI
 
-<td width="50%">
-
-### 📰 NewsMind AI
-
-Clusters similar news articles using Natural Language Processing and Machine Learning.
+AI application that groups similar news articles using Natural Language Processing.
 
 **Highlights**
 
@@ -227,186 +119,207 @@ Clusters similar news articles using Natural Language Processing and Machine Lea
 - Topic Discovery
 - Interactive Dashboard
 
-**Tech**
+**Tech Stack**
 
-Python • Streamlit • Scikit-Learn • Plotly
+`Python`
+`Streamlit`
+`Scikit-Learn`
+`Plotly`
 
-</td>
+🔗 **Repository:** https://github.com/rajnarharia/NewsMind-AI
 
-<td width="50%">
+---
 
-### 🎵 Music Genre Clustering AI
+## 🎵 Music Genre Clustering AI
 
-Groups similar songs using unsupervised machine learning for intelligent music discovery.
+Discover similar music genres using Unsupervised Machine Learning.
 
 **Highlights**
 
-- Audio Feature Analysis
-- K-Means
-- PCA
+- Music Clustering
 - Similar Songs
-- Analytics Dashboard
+- PCA Visualization
+- Interactive Dashboard
 
-**Tech**
+**Tech Stack**
 
-Python • Streamlit • Scikit-Learn
+`Python`
+`Streamlit`
+`Scikit-Learn`
 
-</td>
+🔗 **Repository:** https://github.com/rajnarharia/Music-Genre-Clustering-AI
 
-</tr>
+---
 
-<tr>
+## 🎨 PixelShrink AI
 
-<td width="50%">
-
-### 🎨 PixelShrink AI
-
-Image Color Compression using MiniBatch K-Means while preserving image quality.
+Compresses image colors while preserving visual quality.
 
 **Highlights**
 
+- MiniBatch K-Means
 - Color Quantization
 - Image Compression
-- File Size Reduction
-- Download Result
-- Interactive UI
+- Download Compressed Image
 
-**Tech**
+**Tech Stack**
 
-Python • Streamlit • OpenCV • NumPy
+`Python`
+`OpenCV`
+`NumPy`
+`Streamlit`
 
-</td>
+---
 
-<td width="50%">
+## 📱 CustomDroid
 
-### 📱 CustomDroid
-
-AI-powered Android Assistant capable of executing system commands.
+AI-powered Android Assistant.
 
 **Highlights**
 
 - AI Chat
 - Open Apps
 - Flashlight
-- Bluetooth
-- WiFi
+- WiFi Control
+- Bluetooth Control
 - Volume Control
 
-**Tech**
+**Tech Stack**
 
-Android • Kotlin • Jetpack Compose
-
-</td>
-
-</tr>
-
-</table>
+`Kotlin`
+`Jetpack Compose`
+`Android`
 
 ---
 
-# More Projects
+# 📂 More Projects
 
 - 🍔 Online Food Ordering System
 - 🤖 AI Talking Agent
 - ☁️ AWS Serverless AI Pipeline
 - 🔗 AI Automation using n8n
-- 📊 Machine Learning Dashboards
 
 ---
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=github-dark&hide_border=true"/>
+<div align="center">
 
-<br><br>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=rajnarharia&theme=github-dark-blue&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rajnarharia&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Currently Learning
+# 🎯 Current Focus
 
-- Deep Learning
-- PyTorch
-- Agentic AI
-- AI Agents
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- LLM Application Development
-- Production AI Deployment
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚡ Generative AI
+- 🔥 AI Agents
+- 📚 Deep Learning
+- ☁️ MLOps
+- 🚀 Production AI Applications
 
 ---
 
-# Development Philosophy
+# 🏆 Achievements
+
+- 🎓 B.Tech in Artificial Intelligence
+- 💼 Generative AI & Machine Learning Internship
+- 🚀 Built Multiple End-to-End AI Projects
+- ☁️ Experience Deploying AI Applications
+- 🌟 Smart India Hackathon Participant
+
+---
+
+# 🧰 Tools & Platforms
+
+- Visual Studio Code
+- Android Studio
+- Git & GitHub
+- Docker
+- Linux
+- AWS
+- MySQL
+- Streamlit
+- Jupyter Notebook
+- Google Colab
+- Postman
+
+---
+
+# 💡 Development Philosophy
 
 ```python
 class RajNarharia:
 
     def __init__(self):
-        self.focus = [
-            "Artificial Intelligence",
+        self.role = "AI Engineer"
+
+    def mindset(self):
+        return "Learn → Build → Deploy → Improve"
+
+    def interests(self):
+        return [
             "Machine Learning",
             "Generative AI",
+            "Deep Learning",
+            "AI Agents",
             "Full Stack Development"
         ]
 
-    def philosophy(self):
-        return (
-            "Learn → Build → Deploy → Improve"
-        )
-
-    def goal(self):
-        return (
-            "Build AI products that solve real-world problems."
-        )
+    def mission(self):
+        return "Build AI products that solve real-world problems."
 ```
 
 ---
 
-# Achievements
+# 📖 Currently Learning
 
-- 🎓 B.Tech in Artificial Intelligence
-- 💼 Generative AI & Machine Learning Internship
-- 🚀 Built Multiple End-to-End AI Projects
-- ☁️ Experience with Cloud Deployment
-- 📚 Continuously Learning Modern AI Technologies
-
----
-
-# Open Source
-
-I enjoy contributing to projects, learning from the developer community, and building applications that combine software engineering with Artificial Intelligence.
-
-I'm always open to collaborating on:
-
-- Artificial Intelligence
-- Machine Learning
-- Open Source
-- Full Stack Applications
-- Generative AI Projects
+- PyTorch
+- LangChain
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Agentic AI
+- LLM Applications
+- System Design
+- MLOps
 
 ---
 
-# Quote
+# 🤝 Open For Collaboration
 
-> **"The best way to learn Artificial Intelligence is by building real-world applications."**
+I enjoy collaborating on:
+
+- Artificial Intelligence Projects
+- Machine Learning Applications
+- Open Source Contributions
+- Full Stack Development
+- Generative AI Products
+- Research & Innovation
 
 ---
-# Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://raj-narharia.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rajnarharia">
@@ -425,21 +338,44 @@ I'm always open to collaborating on:
 
 ---
 
-# GitHub Trophies
+# 🎓 Education
+
+## Bachelor of Technology (B.Tech)
+
+**Artificial Intelligence**
+
+BK Birla Institute of Engineering & Technology, Pilani
+
+**Expected Graduation:** 2027
+
+---
+
+# 📜 Certifications
+
+- 🎓 RS-CIT
+- 🤖 Generative AI & Machine Learning Internship – REGex Software Services
+- ☁️ AWS Cloud Learning
+- 🏆 Smart India Hackathon Participant
+
+---
+
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajnarharia&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajnarharia&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
 ---
 
-# Profile Views
+# 📈 Profile Stats
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rajnarharia&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rajnarharia&style=for-the-badge"/>
+
+<br>
 
 <img src="https://img.shields.io/github/followers/rajnarharia?style=for-the-badge&logo=github"/>
 
@@ -449,28 +385,18 @@ I'm always open to collaborating on:
 
 ---
 
-# Let's Collaborate
+# 💬 Quote
 
-I'm always interested in collaborating on projects related to:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ✨ Generative AI
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
-- 📱 Intelligent Applications
-
-If you have an interesting idea, feel free to connect.
+> **"Learning never stops. Every project is a step toward becoming a better AI Engineer."**
 
 ---
 
 <div align="center">
 
-## Thanks for Visiting!
+## ⭐ Thanks for visiting my profile!
 
-### ⭐ If you like my work, consider following my journey.
+If you like my work, consider giving a ⭐ to my repositories and following my GitHub profile.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,100:2563EB&section=footer"/>
 
 </div>
-
