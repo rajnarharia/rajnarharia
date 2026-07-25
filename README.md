@@ -1,441 +1,275 @@
-<div align="center">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Raj%20Narharia&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%7C%20Machine%20Learning%20Developer&descAlignY=58&animation=fadeIn"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=900&lines=Hi+👋+I'm+Raj+Narharia;Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Builder;Building+AI+That+Makes+an+Impact"/>
+<h1 align="center">Hi 👋, I'm Raj Narharia</h1>
 
-<br>
+<h3 align="center">
+Building Intelligent AI Solutions for Real-World Problems
+</h3>
 
-# Raj Narharia
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Production-Ready+AI+Projects;Always+Learning+New+Technologies+🚀"/>
+</p>
 
-### 🚀 Artificial Intelligence Engineer • Machine Learning • Generative AI
-
-<img src="https://komarev.com/ghpvc/?username=rajnarharia&label=Profile+Views&style=for-the-badge&color=2563EB"/>
-
-<br><br>
-
-<a href="https://raj-narharia.lovable.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+...
+</p>
 
 ---
 
-> ### 💡 *"Transforming ideas into intelligent AI solutions that solve real-world problems."*
-
-I'm an **Artificial Intelligence Engineer** passionate about building scalable AI products using **Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision and Cloud Technologies**.
-
-Currently focused on building production-ready AI applications while continuously exploring modern AI technologies.
-
----
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+# 🚀 About Me
 
-```python
-class RajNarharia:
+🎓 B.Tech in Artificial Intelligence
 
-    def __init__(self):
-        self.role = "Artificial Intelligence Engineer"
-        self.education = "B.Tech Artificial Intelligence"
-        self.location = "Rajasthan, India"
+💼 Former Generative AI & Machine Learning Intern at **REGex Software Services**
 
-        self.languages = [
-            "Python",
-            "Java",
-            "C",
-            "C++",
-            "JavaScript"
-        ]
+🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI
 
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "AI Agents",
-            "Computer Vision",
-            "NLP",
-            "MLOps"
-        ]
+🌱 Currently exploring AI Agents, RAG, LangChain and MLOps
 
-        self.currently_learning = [
-            "RAG",
-            "LangChain",
-            "Vector Databases",
-            "Deep Learning",
-            "Production AI"
-        ]
+☁️ Interested in Cloud Computing and Production AI Systems
 
-    def life_goal(self):
-        return "Build AI products that create real impact."
-```
-
-<br clear="both"/>
+🚀 Love building practical AI applications that solve real-world problems
 
 ---
-
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
 
 <br><br>
 
 ### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <br><br>
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash" />
+
+<br><br>
+
+### 🛢️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=for-the-badge"/>
 
 </div>
-
----
-
-# 🎯 Current Focus
-
-- 🤖 Building AI-powered applications
-- 🧠 Exploring AI Agents & LLMs
-- 📚 Learning RAG & MLOps
-- ☁️ Deploying scalable AI systems
-- 🌍 Contributing to Open Source
 
 ---
 # 💼 Experience
 
-<div align="left">
+## 🏢 Generative AI & Machine Learning Intern
 
-## 🚀 Generative AI & Machine Learning Intern
-### REGex Software Services
+**REGex Software Services** • Jun 2025 – Jul 2025
 
 - 🤖 Built AI & Machine Learning applications for real-world use cases.
-- 🧠 Worked with Large Language Models (LLMs) and Generative AI.
-- ⚙️ Developed intelligent automation workflows using Python.
-- 📊 Performed data preprocessing, model optimization and evaluation.
-- 🤝 Collaborated with mentors on industry-oriented AI solutions.
-
-</div>
+- 🐍 Worked extensively with Python, Machine Learning, Generative AI and Linux.
+- ⚡ Developed intelligent automation solutions and AI-powered applications.
+- 🤝 Collaborated with mentors and development teams in an industry environment.
 
 ---
 
-# 🌟 Featured Projects
-
-<div align="center">
+# 🚀 Featured Projects
 
 <table>
-
 <tr>
-
 <td width="50%">
 
-### 🌍 EcoSphere ESG
+## 🌍 EcoSphere ESG Management Platform
 
-AI-powered ESG Management Platform for sustainability reporting, analytics and compliance.
+AI-powered ESG platform that enables organizations to monitor sustainability metrics, generate ESG reports, and gain intelligent insights through AI.
 
-**Tech Stack**
+### ✨ Features
 
-Python • Flask • SQLAlchemy • HTML • CSS • JavaScript
+- ♻️ ESG Reporting
+- 🤖 AI Insights
+- 📊 Interactive Dashboard
+- 🔐 Secure Authentication
+- 📈 Analytics & Visualization
 
-🔗 **Repository**
+### 🛠 Tech Stack
 
-https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<!-- Live demo button (uncomment if available)
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge">
+</a>
+-->
+
+</p>
 
 </td>
 
 <td width="50%">
 
-### 👨‍💼 Orbit HRMS
+## 👨‍💼 Orbit HRMS
 
-Modern Human Resource Management System with authentication, dashboard and employee management.
+A modern Human Resource Management System for employee management, authentication, attendance and HR operations.
 
-**Tech Stack**
+### ✨ Features
 
-React • Node.js • Express • MongoDB
+- 👥 Employee Management
+- 📅 Attendance Tracking
+- 📝 Leave Management
+- 🔐 JWT Authentication
+- 📊 Admin Dashboard
 
-🔗 **Repository**
+### 🛠 Tech Stack
 
-https://github.com/rajnarharia/Orbit-HRMS
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/rajnarharia/Orbit-HRMS">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<!-- Live demo button (uncomment if available)
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge">
+</a>
+-->
+
+</p>
 
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 📰 NewsMind AI
-
-Intelligent News Clustering using TF-IDF, K-Means and interactive visualizations.
-
-**Tech Stack**
-
-Python • Streamlit • Scikit-Learn • Plotly
-
-🔗 **Repository**
-
-https://github.com/rajnarharia/NewsMind-AI
-
-</td>
-
-<td width="50%">
-
-### 🎵 Music Genre Clustering AI
-
-Machine Learning application that groups similar music using Unsupervised Learning.
-
-**Tech Stack**
-
-Python • Streamlit • PCA • Scikit-Learn
-
-🔗 **Repository**
-
-https://github.com/rajnarharia/Music-Genre-Clustering-AI
-
-</td>
-
-</tr>
-
 </table>
-
-</div>
 
 ---
 
 # 🏆 Highlights
 
-✨ Built multiple AI & Machine Learning projects
-
-🤖 Hands-on experience with LLMs & Generative AI
-
-☁️ Experience deploying applications on Streamlit, Render & AWS
-
-🌍 Passionate about solving real-world problems through AI
-
-📚 Continuously learning modern AI technologies
+- 🎓 B.Tech in Artificial Intelligence
+- 💼 Internship in Generative AI & Machine Learning
+- 🚀 Built AI, ML and Full-Stack Projects
+- 🌱 Exploring AI Agents, RAG and MLOps
+- 📚 Continuous Learner & Open Source Enthusiast
 
 ---
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=tokyo-night&hide_border=true"/>
-
-<br><br>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=rajnarharia&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
----
-
-# 🧠 Core Expertise
+<br>
 
 <div align="center">
 
-| Domain | Level |
-|:---------------------------|:----------------:|
-| 🤖 Artificial Intelligence | ⭐⭐⭐⭐⭐ |
-| 🧠 Machine Learning | ⭐⭐⭐⭐⭐ |
-| 💬 Natural Language Processing | ⭐⭐⭐⭐☆ |
-| 👁 Computer Vision | ⭐⭐⭐⭐☆ |
-| ☁️ Cloud Computing | ⭐⭐⭐⭐☆ |
-| 🌐 Full Stack Development | ⭐⭐⭐⭐☆ |
-| 📊 Data Analysis | ⭐⭐⭐⭐☆ |
-| 🚀 Generative AI | ⭐⭐⭐⭐⭐ |
+<img width="70%" src="https://streak-stats.demolab.com?user=rajnarharia&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
 
-# 🛣 Learning Journey
-
-```text
-2023
-│
-├── Python
-├── C / C++
-├── Java
-│
-2024
-│
-├── Machine Learning
-├── Data Science
-├── Deep Learning
-│
-2025
-│
-├── Generative AI
-├── Computer Vision
-├── NLP
-├── AWS
-│
-2026
-│
-├── AI Agents
-├── RAG
-├── LangChain
-├── MLOps
-└── Production AI
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=tokyo-night&hide_border=true&area=true"/>
 
 ---
 
-# 💡 Development Philosophy
+# 🎯 Current Focus
 
-> **"Great AI is not built to impress people. It's built to solve problems."**
+🔹 Building production-ready AI & Machine Learning applications
 
-I believe in creating AI systems that are practical, scalable, maintainable, and focused on delivering measurable value. Every project I build is driven by learning, experimentation, and real-world impact.
+🔹 Exploring AI Agents, RAG and LLM-based systems
+
+🔹 Strengthening Data Structures & Algorithms
+
+🔹 Learning MLOps, Cloud Deployment and System Design
+
+🔹 Contributing high-quality projects on GitHub
 
 ---
 # 🎓 Education
 
-<div align="center">
-
-| 🎓 Degree | 🏫 Institute | 📅 Status |
-|:-----------|:-------------|:----------|
-| **B.Tech in Artificial Intelligence** | BK Birla Institute of Engineering & Technology, Pilani | Pursuing |
-| **RS-CIT** | Rajasthan Knowledge Corporation Limited | Completed |
-
-</div>
+**Bachelor of Technology (B.Tech) – Artificial Intelligence**  
+BK Birla Institute of Engineering & Technology, Pilani  
+**Bikaner Technical University (BTU)**
 
 ---
 
-# 📜 Certifications & Achievements
+# 📜 Certifications
 
-<div align="center">
-
-| 🏆 Achievement | Status |
-|:---------------|:------|
-| 🤖 Generative AI & Machine Learning Internship | ✅ Completed |
-| 🐧 Linux System Administration | ✅ Certified |
-| 💻 RS-CIT | ✅ Certified |
-| 🚀 Smart India Hackathon | ✅ Participant |
-| 🌍 Multiple AI/ML Projects Deployed | ✅ Completed |
-
-</div>
+- 🏅 Generative AI & Machine Learning Internship — REGex Software Services
+- 🏅 RS-CIT Certification
+- 🏅 TVS Credit E.P.I.C. 8.0 Participant
+- 🏅 Smart India Hackathon Participant
 
 ---
 
-# 🌐 Let's Connect
+---
 
 <div align="center">
 
-<a href="https://raj-narharia.lovable.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rajnarharia" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🤝 Let's Connect
 
 <a href="mailto:rajnarharia0@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-# 🤝 Open to Collaborate
-
-I'm always excited to collaborate on projects related to:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🚀 Generative AI
-- 💬 Natural Language Processing
-- 👁️ Computer Vision
-- ☁️ Cloud AI
-- 🌍 Open Source
-
-If you're building something exciting, feel free to connect with me.
-
----
-# 🚀 2026 Goals
-
-- 🤖 Build production-ready AI applications
-- 🧠 Master LLMs, AI Agents & RAG
-- ☁️ Become proficient in MLOps & Cloud AI
-- 🌍 Contribute consistently to Open Source
-- 📚 Publish high-quality AI/ML research projects
-- 💼 Secure an AI Engineer / Machine Learning Engineer role
-
----
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnarharia&repo=EcoSphere-ESG-Management-Platform&theme=tokyonight&hide_border=true"/>
+<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/rajnarharia/Orbit-HRMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnarharia&repo=Orbit-HRMS&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/rajnarharia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/rajnarharia/NewsMind-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnarharia&repo=NewsMind-AI&theme=tokyonight&hide_border=true"/>
-</a>
+⭐ **Thanks for visiting my profile!**
 
-<a href="https://github.com/rajnarharia/Music-Genre-Clustering-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnarharia&repo=Music-Genre-Clustering-AI&theme=tokyonight&hide_border=true"/>
-</a>
+*"Turning ideas into intelligent AI solutions."*
 
 </div>
 
----
+# 💡 Quote
 
-# 💬 Quote
-
-<div align="center">
-
-### *"The best AI isn't the most complex—it's the one that solves real problems."*
-
-</div>
+> **"The best way to predict the future is to build it."**
 
 ---
 
@@ -443,10 +277,154 @@ If you're building something exciting, feel free to connect with me.
 
 ### ⭐ Thanks for visiting my profile!
 
-If you enjoy my work, consider **starring a repository**, **sharing feedback**, or **connecting with me on LinkedIn**.
+If you like my work, consider following my journey and exploring my repositories.
+
+</div>
+# 🎓 Education
+
+### Bachelor of Technology (B.Tech) — Artificial Intelligence
+
+🏛️ BK Birla Institute of Engineering & Technology, Pilani
+
+📍 Affiliated to Bikaner Technical University (BTU)
+
+🎯 Focus Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- Cloud Computing
+
+---
+
+# 📜 Certifications
+
+🏅 Generative AI & Machine Learning Internship — REGex Software Services
+
+🏅 RS-CIT Certification
+
+🏅 TVS Credit E.P.I.C. 8.0 Participant
+
+🏅 Smart India Hackathon Participant
+
+---
+
+# 🚀 Currently Working On
+
+✅ AI & Machine Learning Projects
+
+✅ Generative AI Applications
+
+✅ AI Agents & RAG Systems
+
+✅ MLOps & Cloud Deployment
+
+✅ Data Structures & Algorithms
+
+---
+
+# 📚 Currently Learning
+
+- Large Language Models (LLMs)
+- LangChain
+- Vector Databases
+- Prompt Engineering
+- Docker
+- AWS
+- System Design
+
+---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2563EB,100:0F172A&section=footer"/>
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rajnarharia&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=tokyo-night&hide_border=true"/>
+
+---
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rajnarharia0@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rajnarharia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+> **"Turning ideas into intelligent solutions through AI."**
+
+<br>
+
+⭐ If you find my work interesting, consider starring a repository or connecting with me on LinkedIn.
+
+</div>
+---
+
+<div align="center">
+
+## 📈 Profile Activity
+
+<img src="https://komarev.com/ghpvc/?username=rajnarharia&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnarharia&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to Collaborate
+
+I'm always interested in collaborating on **AI**, **Machine Learning**, **Generative AI**, and **Open Source** projects.
+
+Feel free to connect with me!
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+If you like my work, consider giving a ⭐ to a repository.
 
 </div>
