@@ -9,12 +9,15 @@ Building Intelligent AI Solutions for Real-World Problems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Production-Ready+AI+Applications;Always+Learning+Something+New+🚀"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Production-Ready+AI+Applications"/>
+
 </p>
 
 <p align="center">
+
 <a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
@@ -24,6 +27,16 @@ Building Intelligent AI Solutions for Real-World Problems
 <a href="mailto:rajnarharia0@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rajnarharia&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/rajnarharia?label=Followers&style=flat"/>
+
+<img src="https://img.shields.io/github/stars/rajnarharia?affiliations=OWNER&style=flat"/>
 
 </p>
 
@@ -35,7 +48,7 @@ Building Intelligent AI Solutions for Real-World Problems
 
 💼 Former **Generative AI & Machine Learning Intern** at **REGex Software Services**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI
+🤖 I build AI-powered applications using Machine Learning, Generative AI and modern development tools.
 
 🌱 Currently exploring
 
@@ -43,104 +56,149 @@ Building Intelligent AI Solutions for Real-World Problems
 - Retrieval-Augmented Generation (RAG)
 - LangChain
 - MLOps
+- Cloud AI Deployment
 
-☁️ Interested in Cloud Computing & Production AI Systems
-
-🚀 Love building practical AI applications that solve real-world problems.
+🚀 Passionate about building intelligent software that solves real-world problems.
 
 ---
-
 # 💻 Tech Stack
 
 <div align="center">
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
+</p>
 
-<br><br>
+### 🌐 Web Technologies
 
-### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### 🤖 Artificial Intelligence & Machine Learning
 
-<br>
+<p>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-<br><br>
+</p>
 
 ### ☁️ Cloud & DevOps
 
+<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash"/>
-
-<br><br>
+</p>
 
 ### 🛢️ Database
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-<br><br>
+### 🛠️ Development Tools
 
-### 🛠️ Tools
-
+<p>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman"/>
+</p>
 
 </div>
 
 ---
+
 # 💼 Experience
 
 ## 🏢 Generative AI & Machine Learning Intern
 
-**REGex Software Services** • Jun 2025 – Jul 2025
+**REGex Software Services**  
+📅 **Jun 2025 – Jul 2025**
 
-- 🤖 Developed AI & Machine Learning solutions for real-world applications.
-- 🐍 Worked with Python, Scikit-Learn, Streamlit, Linux and Generative AI.
-- 🚀 Built intelligent applications focused on automation and problem-solving.
-- 🤝 Collaborated with mentors and development teams in a professional environment.
+### Responsibilities
+
+- 🤖 Developed AI and Machine Learning applications using Python and Scikit-Learn.
+- 🚀 Built interactive AI solutions with Streamlit for real-world use cases.
+- 🐧 Worked in Linux environments for development and deployment.
+- 💡 Applied Generative AI techniques to automate workflows and improve productivity.
+- 🤝 Collaborated with mentors and developers in an Agile team environment.
+- 📈 Focused on writing clean, scalable, and production-ready code.
 
 ---
 
+# 🎓 Education
+
+## Bachelor of Technology (B.Tech)
+
+**Artificial Intelligence**
+
+🏛️ BK Birla Institute of Engineering & Technology, Pilani
+
+📍 Affiliated to Bikaner Technical University (BTU)
+
+### Relevant Coursework
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Cloud Computing
+- Generative AI
+
+---
+
+# 🏆 Achievements
+
+- 🎓 B.Tech Student specializing in Artificial Intelligence
+- 💼 Completed Generative AI & Machine Learning Internship
+- 🤖 Built multiple AI & Machine Learning projects
+- 🚀 Deployed AI applications on Streamlit Cloud
+- 🏅 Smart India Hackathon Participant
+- 📜 RS-CIT Certified
+- 🌱 Continuously learning AI Agents, RAG, LangChain, and MLOps
+
+---
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ## 🌍 EcoSphere ESG Management Platform
 
-AI-powered ESG platform that helps organizations manage sustainability data, generate reports and gain actionable insights.
+AI-powered sustainability platform that helps organizations manage ESG data, generate intelligent reports, and visualize sustainability metrics.
 
-### ✨ Highlights
+### 🚀 Features
 
 - ♻️ ESG Reporting
 - 🤖 AI-Powered Insights
-- 📊 Interactive Dashboard
+- 📊 Analytics Dashboard
 - 🔐 Secure Authentication
-- 📈 Analytics & Visualization
+- 📈 Data Visualization
 
 ### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square"/>
-
-<br><br>
+`Python` `Streamlit` `SQLite` `Scikit-Learn` `Generative AI`
 
 <p align="center">
 
 <a href="https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -149,32 +207,26 @@ AI-powered ESG platform that helps organizations manage sustainability data, gen
 
 <td width="50%" valign="top">
 
-## 👨‍💼 Orbit HRMS
+## 📰 NewsMind AI
 
-A modern Human Resource Management System built to simplify employee management and HR workflows.
+Intelligent news clustering application that groups similar news articles using Unsupervised Machine Learning.
 
-### ✨ Highlights
+### 🚀 Features
 
-- 👥 Employee Management
-- 📅 Attendance Tracking
-- 📝 Leave Management
-- 🔐 Secure Authentication
-- 📊 Admin Dashboard
+- 📰 News Clustering
+- 🤖 K-Means Algorithm
+- 📊 Interactive Dashboard
+- 🔍 Similar Article Finder
+- 📈 Cluster Visualization
 
 ### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
-
-<br><br>
+`Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 <p align="center">
 
-<a href="https://github.com/rajnarharia/Orbit-HRMS">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/rajnarharia/NewsMind-AI">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -182,34 +234,68 @@ A modern Human Resource Management System built to simplify employee management 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎵 Music Genre Clustering AI
+
+Machine Learning application that automatically groups music into similar genres using K-Means clustering and PCA visualization.
+
+### 🚀 Features
+
+- 🎼 Genre Discovery
+- 🤖 Unsupervised Learning
+- 📊 PCA Visualization
+- 🎧 Similar Music Finder
+- 📈 Interactive Dashboard
+
+### 🛠 Tech Stack
+
+`Python` `Scikit-Learn` `Plotly` `Streamlit`
+
+<p align="center">
+
+<a href="https://github.com/rajnarharia/Music-Genre-Clustering-AI">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🍔 Online Food Ordering System
+
+Modern restaurant ordering platform featuring menu browsing, intelligent recommendations, analytics, and a responsive user interface.
+
+### 🚀 Features
+
+- 🍕 Digital Menu
+- 📦 Order Management
+- 📊 Restaurant Analytics
+- 🎯 Recommendation System
+- 📱 Responsive Interface
+
+### 🛠 Tech Stack
+
+`Python` `Streamlit` `Pandas` `Plotly`
+
+<p align="center">
+
+<a href="https://github.com/rajnarharia/online-food-ordering-system">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
-
----
-
-# 🏆 Highlights
-
-- 🎓 B.Tech in Artificial Intelligence
-- 💼 Completed Internship in Generative AI & Machine Learning
-- 🤖 Built multiple AI & Machine Learning applications
-- 🌱 Exploring AI Agents, RAG and MLOps
-- 🚀 Passionate about solving real-world problems through AI
-
----
-# 🎓 Education
-
-### Bachelor of Technology (B.Tech) — Artificial Intelligence
-
-🏛️ **BK Birla Institute of Engineering & Technology, Pilani**
-
-📍 Affiliated to **Bikaner Technical University (BTU)**
-
-### 📚 Core Areas
-
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Cloud Computing
-- Generative AI
 
 ---
 
@@ -217,111 +303,21 @@ A modern Human Resource Management System built to simplify employee management 
 
 🏅 Generative AI & Machine Learning Internship — REGex Software Services
 
+🏅 Smart India Hackathon Participant
+
 🏅 RS-CIT Certification
 
 🏅 TVS Credit E.P.I.C. 8.0 Participant
 
-🏅 Smart India Hackathon Participant
-
 ---
 
-# 🚀 Currently Working On
-
-- 🤖 AI & Machine Learning Projects
-- 🧠 Generative AI Applications
-- 🔍 AI Agents & Retrieval-Augmented Generation (RAG)
-- ☁️ Cloud Deployment & MLOps
-- 📚 Data Structures & Algorithms
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rajnarharia&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajnarharia&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Goals
-
-- 🚀 Build impactful AI products
-- 🌍 Contribute to Open Source
-- 💡 Learn production-ready AI systems
-- 📖 Continuously improve problem-solving skills
-- 🤝 Collaborate with developers worldwide
-
----
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💬 Open to Collaboration
-
-I'm always excited to collaborate on projects related to:
+# 📈 Current Focus
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - ✨ Generative AI
-- 📊 Data Science
-- ☁️ Cloud Computing
-- 🌍 Open Source
-
-If you have an interesting idea or project, feel free to reach out!
+- 🔍 AI Agents
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☁️ MLOps & Cloud Deployment
 
 ---
-
-# 🌟 Fun Facts
-
-- 🚀 I enjoy building AI applications that solve real-world problems.
-- 📚 I believe learning by building projects is the fastest way to grow.
-- 💡 Always curious to explore new technologies and ideas.
-- 🌱 Continuously improving every day.
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting!
-
-### "Turning ideas into intelligent AI solutions."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</div>
