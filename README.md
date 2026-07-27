@@ -1,37 +1,35 @@
-<!-- ===================================================== -->
-<!--                 RAJ NARHARIA | AI ENGINEER            -->
-<!-- ===================================================== -->
+<!-- ======================= HERO ======================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Raj%20Narharia&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Raj%20Narharia&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer&descAlignY=58"/>
 
-# 👋 Hi, I'm Raj Narharia
+# Hi 👋 I'm Raj Narharia
 
-### Artificial Intelligence Engineer • Machine Learning Developer • Generative AI Enthusiast
+### Artificial Intelligence • Machine Learning • Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+AI+Solutions;Machine+Learning+Developer;Generative+AI+Explorer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Applications"/>
 
 <br>
 
 <a href="https://github.com/rajnarharia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/raj-narharia-rn-a04ba8329/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://raj-narharia.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="mailto:rajnarharia0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/rajnarharia/rajnarharia/raw/main/resume/Raj_Narharia_Resume.pdf">
-<img src="https://img.shields.io/badge/Resume-PDF-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-PDF-E53935?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
 </div>
@@ -40,70 +38,59 @@
 
 # 💫 About Me
 
-🎓 B.Tech student in **Artificial Intelligence** at **BKBIET, Pilani**
+🎓 B.Tech in Artificial Intelligence at **BKBIET, Pilani**
 
 💼 Former **Generative AI & Machine Learning Intern** at **REGex Software Services**
 
-🤖 Passionate about building intelligent applications using **Machine Learning**, **Generative AI**, and **Cloud Technologies**
+🤖 Passionate about Machine Learning, Generative AI and Intelligent Applications
 
-☁️ Currently learning **LLMs, RAG, AI Agents, LangChain, and MLOps**
+☁️ Exploring LLMs, RAG, AI Agents, LangChain and MLOps
 
-🚀 I enjoy solving real-world problems through practical AI solutions and continuously improving my development skills.
+🚀 I enjoy building practical AI applications that solve real-world problems.
 
 ---
-
-## ⚡ Quick Highlights
-
-- 🤖 AI & Machine Learning Developer
-- 💡 Strong interest in Generative AI
-- 🌐 Full-Stack AI Application Development
-- ☁️ AWS Cloud Fundamentals
-- 📊 Data Analysis & Visualization
-- 🚀 Open Source Learner
-
 # 💻 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css&perline=7" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / Machine Learning
+---
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=3" />
+### AI / Machine Learning
 
-<br>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
-<p>
+---
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square"/>
+### Cloud • Database • Tools
 
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash&perline=6" />
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" />
-
-<br><br>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,jupyter,androidstudio&perline=4" />
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
 
@@ -111,16 +98,16 @@
 
 # 💼 Experience
 
-## 🚀 Generative AI & Machine Learning Intern
+## Generative AI & Machine Learning Intern
 
 **REGex Software Services**  
-📅 Jun 2025 – Jul 2025
+**Jun 2025 – Jul 2025**
 
-- 🤖 Developed Machine Learning models using Python and Scikit-Learn.
-- 🧠 Worked with Large Language Models (LLMs) and Prompt Engineering.
-- 📊 Built data preprocessing and model evaluation pipelines.
-- ☁️ Explored cloud-based AI workflows and deployment.
-- 🤝 Collaborated with mentors on real-world AI projects.
+- Developed Machine Learning solutions using **Python** and **Scikit-Learn**
+- Worked with **Generative AI**, **LLMs**, and prompt engineering
+- Built data preprocessing and model evaluation pipelines
+- Explored AI deployment workflows and cloud technologies
+- Collaborated on real-world AI projects
 
 ---
 
@@ -128,40 +115,40 @@
 
 **Bachelor of Technology (B.Tech) – Artificial Intelligence**
 
-🏛️ BK Birla Institute of Engineering & Technology, Pilani
+**BK Birla Institute of Engineering & Technology, Pilani**
 
-📅 2023 – 2027
+**2023 – 2027**
 
 ---
 
-# 🏅 Certifications
+# 📜 Certifications
 
-- 🎖️ Generative AI & Machine Learning Internship
-- 🎖️ Python for Data Science
-- 🎖️ Machine Learning Fundamentals
-- 🎖️ TCS iON Career Edge – Young Professional
-- 🎖️ RS-CIT
+- Generative AI & Machine Learning Internship
+- Python for Data Science
+- Machine Learning Fundamentals
+- TCS iON Career Edge – Young Professional
+- RS-CIT
 
 ---
 # 🚀 Featured Projects
 
 ## 🌍 EcoSphere ESG Management Platform
 
-> AI-powered ESG platform that helps organizations manage sustainability data, generate AI insights, and visualize ESG performance.
+AI-powered ESG platform that helps organizations monitor sustainability metrics, generate AI-driven insights, and visualize ESG performance.
 
-**🛠 Tech Stack**
+**Tech Stack**
 
 `Python` • `Streamlit` • `SQLite` • `Scikit-Learn` • `Generative AI`
 
-**✨ Key Features**
+**Key Features**
 
-- 🤖 AI-powered ESG Insights
-- 📊 Interactive Analytics Dashboard
-- 📈 Sustainability Reporting
-- 🔐 Secure User Authentication
-- ☁️ Cloud Deployment
+- 🤖 AI-powered ESG insights
+- 📊 Interactive analytics dashboard
+- 📈 Sustainability reporting
+- 🔐 Secure authentication system
+- ☁️ Railway cloud deployment
 
-<p align="left">
+<p>
 <a href="https://github.com/rajnarharia/EcoSphere-ESG-Management-Platform">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -175,20 +162,20 @@
 
 ## 📰 NewsMind AI
 
-> Machine Learning application that automatically clusters similar news articles using K-Means and Natural Language Processing.
+Machine Learning application that automatically groups similar news articles using Natural Language Processing and K-Means clustering.
 
-**🛠 Tech Stack**
+**Tech Stack**
 
 `Python` • `Scikit-Learn` • `Pandas` • `Streamlit` • `Plotly`
 
-**✨ Key Features**
+**Key Features**
 
-- 📰 Automatic News Clustering
-- 🔍 Similar News Finder
-- 📊 Interactive Visualizations
-- 📈 Cluster Analytics Dashboard
+- 📰 Automatic news clustering
+- 🔍 Similar article finder
+- 📊 Cluster visualization
+- 📈 Interactive analytics dashboard
 
-<p align="left">
+<p>
 <a href="https://github.com/rajnarharia/NewsMind-AI">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -202,20 +189,20 @@
 
 ## 🍔 Online Food Ordering System
 
-> Modern restaurant ordering platform featuring menu browsing, order management, analytics, and responsive UI.
+A restaurant ordering platform with menu management, order tracking, sales analytics, and an interactive Streamlit interface.
 
-**🛠 Tech Stack**
+**Tech Stack**
 
 `Python` • `Streamlit` • `Pandas` • `Plotly`
 
-**✨ Key Features**
+**Key Features**
 
-- 🍽️ Smart Digital Menu
-- 🛒 Order Management
-- 📊 Sales Analytics
-- 📱 Responsive Interface
+- 🍽️ Digital restaurant menu
+- 🛒 Smart order management
+- 📊 Sales analytics dashboard
+- 📱 Responsive user interface
 
-<p align="left">
+<p>
 <a href="https://github.com/rajnarharia/online-food-ordering-system">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -229,20 +216,20 @@
 
 ## 👨‍💼 Orbit HRMS
 
-> Full-stack Human Resource Management System for managing employees, attendance, leave requests, and HR operations.
+A full-stack Human Resource Management System for employee management, attendance tracking, leave requests, and HR operations.
 
-**🛠 Tech Stack**
+**Tech Stack**
 
-`React` • `Node.js` • `Express` • `MongoDB`
+`React` • `Node.js` • `Express.js` • `MongoDB`
 
-**✨ Key Features**
+**Key Features**
 
-- 👥 Employee Management
-- 📅 Attendance Tracking
-- 📝 Leave Management
-- 🔐 JWT Authentication
+- 👥 Employee management
+- 📅 Attendance tracking
+- 📝 Leave management
+- 🔐 JWT authentication
 
-<p align="left">
+<p>
 <a href="https://github.com/rajnarharia/Orbit-HRMS">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -253,15 +240,34 @@
 </p>
 
 ---
-# 📊 GitHub Analytics
+# 🏅 Highlights
 
-<div align="center">
+- 💼 Completed a **Generative AI & Machine Learning Internship** at **REGex Software Services**
+- 🤖 Built multiple AI & Machine Learning projects using **Python**, **Scikit-Learn**, and **Streamlit**
+- ☁️ Developed cloud-based AI applications using **AWS** services
+- 📊 Experienced in **Data Analysis**, **Machine Learning**, and **Generative AI**
+- 🚀 Passionate about building practical AI solutions for real-world problems
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnarharia&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarharia&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+# 📚 Currently Learning
 
-</div>
+- 🤖 Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain
+- 🤖 AI Agents
+- ☁️ MLOps & Cloud AI Deployment
+
+---
+
+# 🎯 Career Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Data Science
+- Cloud Computing
+- Full-Stack AI Applications
 
 ---
 # 🤝 Let's Connect
@@ -294,8 +300,12 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
+If you enjoy AI, Machine Learning, or Generative AI projects, feel free to connect or explore my repositories.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
